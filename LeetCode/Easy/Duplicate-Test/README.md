@@ -6,7 +6,7 @@
 | Difficulty | Easy |
 | Language | python3 |
 | URL | [https://leetcode.com/problems/duplicate-test/](https://leetcode.com/problems/duplicate-test/) |
-| Submitted | 2026-08-29T12:30:41.871Z |
+| Submitted | 2026-08-29T12:31:21.145Z |
 
 
 ## Solution
