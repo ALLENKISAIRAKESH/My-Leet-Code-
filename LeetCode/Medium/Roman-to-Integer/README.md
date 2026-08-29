@@ -6,7 +6,7 @@
 | Difficulty | Medium |
 | Language | python3 |
 | URL | [https://leetcode.com/problems/roman-to-integer/](https://leetcode.com/problems/roman-to-integer/) |
-| Submitted | 2026-08-29T12:18:03.095Z |
+| Submitted | 2026-08-29T12:18:22.174Z |
 
 
 ## Problem Statement
@@ -69,6 +69,15 @@ Constraints:
 ```python
 class Solution:
     def romanToInt(self, s: str) -> int:
+        values = {
+            'I': 1,
+            'V': 5,
+            'X': 10,
+            'L': 50,
+            'C': 100,
+            'D': 500,
+            'M': 1000
+        }
 ```
 
 ---
