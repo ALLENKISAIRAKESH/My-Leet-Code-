@@ -6,7 +6,7 @@
 | Difficulty | Medium |
 | Language | java |
 | URL | [https://leetcode.com/problems/job-status-test/](https://leetcode.com/problems/job-status-test/) |
-| Submitted | 2026-08-29T12:30:45.271Z |
+| Submitted | 2026-08-29T12:31:24.405Z |
 
 
 ## Solution
